@@ -22,7 +22,7 @@ This is a simple Java console application that simulates the process of buying a
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/buyphone-java.git
+    git clone https://github.com/Vikas2604/buyphone-java.git
     ```
 
 2. Navigate into the project directory:
@@ -34,13 +34,13 @@ This is a simple Java console application that simulates the process of buying a
 3. Compile the Java file:
 
     ```bash
-    javac BuyPhone.java
+    javac BuyPhoneMain.java
     ```
 
 4. Run the compiled Java program:
 
     ```bash
-    java BuyPhone
+    java BuyPhoneMain
     ```
 
 5. Follow the on-screen instructions to purchase a phone.
@@ -71,3 +71,4 @@ OS: iOS 16
 Charger Available: No
 RAM: 6GB
 Price: ₹112900
+```
